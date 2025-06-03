@@ -1,5 +1,5 @@
 """
-Se for sua primeira vez e não pegar, abra o terminal e rode o instalar:
+Se for sua primeira vez e não pegar, abra o terminal e rode o:
     Criar ambiente: python -m venv .venv
     Instalar: pip install -q -U google-genai
     
